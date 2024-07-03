@@ -10,7 +10,7 @@ const Contact = () => {
   return (
     <>
       <div id='contact'>
-        <h1 className='text-4xl font-bold  p-2 m-4'>Contact Me</h1>
+        <h1 className='text-4xl font-bold  p-2 m-4' >Contact Me</h1>
         <div className='flex justify-center items-center p-2 m-2 text-2xl'
           // data-aos="zoom-in"
           // data-aos-duration="1000"
@@ -28,6 +28,7 @@ const Contact = () => {
 }
 
 export default Contact;
+
 
 
 
