@@ -12,8 +12,8 @@ const Contact = () => {
       <div id='contact'>
         <h1 className='text-4xl font-bold  p-2 m-4'>Contact Me</h1>
         <div className='flex justify-center items-center p-2 m-2 text-2xl'
-         data-aos="zoom-in"
-         data-aos-duration="1000"
+          // data-aos="zoom-in"
+          // data-aos-duration="1000"
         >
           <a href='https://www.facebook.com/profile.php?id=100014761635009' target='_blank' className='bg-black m-4 w-16 h-16 flex justify-center items-center rounded-full border-2 border-yellow-300 shadow-2xl shadow-yellow-300 hover:bg-yellow-300 hover:text-black hover:border-black hover:border-4'><CiFacebook/></a>
           <a href='https://www.instagram.com/ka.nchan207?igsh=MW9rMjJ2aXQ0c3V5MA==' target='_blank' className='bg-black m-4 w-16 h-16 flex justify-center items-center rounded-full border-2 border-yellow-300 shadow-2xl shadow-yellow-300 hover:bg-yellow-300 hover:text-black hover:border-black hover:border-4'><FaInstagram/></a>
@@ -28,3 +28,17 @@ const Contact = () => {
 }
 
 export default Contact;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
