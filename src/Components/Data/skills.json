@@ -1,0 +1,51 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "Skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "Skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "Skills/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "Skills/react.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "Skills/Cpp.png"
+    },
+    {
+      "title":"DSA",
+      "imageSrc":"Skills/DSApng.png"
+    },
+    {
+      "title": "OOPS",
+      "imageSrc": "Skills/OOPS.png"
+    },
+    {
+      "title": "DBMS",
+      "imageSrc": "Skills/db.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "Skills/Sql.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "Skills/Linux.png"
+    },
+    {
+      "title": "Networking",
+      "imageSrc": "Skills/Networkings.png"
+    },
+    {
+      "title": "PowerBI",
+      "imageSrc": "Skills/Power.png"
+    }
+  ]
+  

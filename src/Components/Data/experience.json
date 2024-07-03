@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "role": "Content Research and Website Management - Intern",
+      "organisation": "Engineer’s Planet Pvt. Ltd.",
+      "startDate": "Sept, 2023",
+      "endDate": "Dec, 2023",
+      "location": "Delhi, India",
+      "experiences": [
+        "create portfolios using HTML, CSS, and Canva.",
+        "Worked with the MTech and Phd Students"
+      ],
+      "imageSrc": "company/ep.jpeg"
+    },
+    {
+      "id": 2,
+      "role": "Web Development and Designing - Intern",
+      "organisation": "Tech-A-Intern",
+      "startDate": "jul, 2023",
+      "endDate": "Aug, 2023",
+      "location": "Delhi, India",
+      "experiences": [
+        "Leveraged HTML, CSS, JavaScript and ReactJs skills",
+        "Develop the interactive and responsive web pages"
+      ],
+      "imageSrc": "Company/tech-a-intern.jpeg"
+    },
+    {
+      "id": 3,
+      "role": "Artificial Intelligence & Machine Learning - Intern",
+      "organisation": "Safcon India Pvt. Ltd.",
+      "startDate": "Aug, 2022",
+      "endDate": "Sep, 2022",
+      "location": "Delhi, India",
+      "experiences": [
+        "Python-based machine learning training",
+        "Apply various learning algorithms for pridictions"
+      ],
+      "imageSrc": "Company/safcon.png"
+    },
+    {
+        "id": 4,
+        "role": "Testing and Repair Technician - Intern",
+        "organisation": "Tata Power DDL",
+        "startDate": "Jul, 2019",
+        "endDate": "Aug, 2019",
+        "location": "Delhi, India",
+        "experiences": [
+          "Troubleshoot the faulty components on the PCB",
+          "Helped to Repair the various PCB card"
+        ],
+        "imageSrc": "Company/tpddl.jpeg"
+      }
+  ]
