@@ -4,9 +4,9 @@ import mine from "./Data/mine.json";
 import Typed from "typed.js";
 
 const Home = () => {
-
   // useRef initialize for animation
   const typedRef = useRef(null);
+
   useEffect(() => {
     const options = {
       strings: [
@@ -25,7 +25,7 @@ const Home = () => {
     return () => {
       typed.destroy();
     };
-  }, [1]);
+  }, []);
 
   return (
     <>
@@ -35,6 +35,7 @@ const Home = () => {
         <div className='w-full md:w-[620px] p-6 m-1 h-auto md:h-52 border-2 border-yellow-300 rounded-md text-center shadow-2xl shadow-yellow-300 bg-black'
           data-aos="fade-up-right" // animation
           data-aos-duration="1000"
+          style={{ width: '620px', minHeight: '200px', maxHeight: '300px' }} // Fixed width and min/max height
         >
           <h1 className='m-6 p-2 text-xl md:text-2xl font-bold text-white' ref={typedRef}></h1>
 
@@ -45,7 +46,8 @@ const Home = () => {
         <div
           data-aos="fade-up-left"
           data-aos-duration="1000"
-          className='flex justify-center items-center mt-4 md:mt-0'
+          className='flex justify-center items-center mt-4 md:mt-0 min'
+          style={{ width: '300px', minHeight: '300px', maxHeight: '300px' }} // Fixed width and min/max height
         >
           <img className='p-1 m-6 h-64 w-64 w md:h-80 md:w-80 rounded-full border-2 border-yellow-300 animate-superman' src={`/assests/${mine.imgSrc}`} alt='mine' />
         </div>
