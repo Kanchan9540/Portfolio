@@ -49,7 +49,7 @@ const Home = () => {
           className='flex justify-center items-center mt-4 md:mt-0 min'
           style={{ width: '300px', minHeight: '300px', maxHeight: '300px' }} // Fixed width and min/max height
         >
-          <img className='p-1 m-6 h-64 w-64 w md:h-80 md:w-80 rounded-full border-2 border-yellow-300 animate-superman' src={`/assests/${mine.imgSrc}`} alt='mine' />
+          <img className='p-1 m-6 h-64 w-64 md:h-80 md:w-80 rounded-full border-2 border-yellow-300 animate-superman' src={`/assests/${mine.imgSrc}`} alt='mine' />
         </div>
 
       </div>
