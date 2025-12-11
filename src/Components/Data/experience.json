@@ -1,11 +1,24 @@
 [
     {
       "id": 1,
+      "role": "Network Engineer",
+      "organisation": "Colt Technology Services",
+      "startDate": "Aug, 2024",
+      "endDate": "Present",
+      "location": "Gurugram, India",
+      "experiences": [
+        "Designs and configures reliable and secure networks.",
+        "Troubleshoots issues and ensures smooth network performance"
+      ],
+      "imageSrc": "company/colt.png"
+    },
+    {
+      "id": 2,
       "role": "Content Research and Website Management - Intern",
       "organisation": "Engineer’s Planet Pvt. Ltd.",
       "startDate": "Sept, 2023",
       "endDate": "Dec, 2023",
-      "location": "Delhi, India",
+      "location": "Noida, India",
       "experiences": [
         "create portfolios using HTML, CSS, and Canva.",
         "Worked with the MTech and Phd Students"
@@ -13,7 +26,7 @@
       "imageSrc": "company/ep.jpeg"
     },
     {
-      "id": 2,
+      "id": 3,
       "role": "Web Development and Designing - Intern",
       "organisation": "Tech-A-Intern",
       "startDate": "jul, 2023",
@@ -26,7 +39,7 @@
       "imageSrc": "Company/tech-a-intern.jpeg"
     },
     {
-      "id": 3,
+      "id": 4,
       "role": "Artificial Intelligence & Machine Learning - Intern",
       "organisation": "Safcon India Pvt. Ltd.",
       "startDate": "Aug, 2022",
@@ -39,7 +52,7 @@
       "imageSrc": "Company/safcon.png"
     },
     {
-        "id": 4,
+        "id": 5,
         "role": "Testing and Repair Technician - Intern",
         "organisation": "Tata Power DDL",
         "startDate": "Jul, 2019",

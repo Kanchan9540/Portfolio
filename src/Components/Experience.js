@@ -22,6 +22,7 @@ const Experience = () => {
               {/* Information section */}
               <div>
                 <h2 className='text-lg md:text-xl font-bold text-white'>{Data.role}</h2>
+                <h4 className='text-md md:text-lg font-bold text-yellow-500'>{Data.organisation}</h4>
                 <h4 className='text-md md:text-lg font-semibold text-white'>
                   <span className='text-yellow-500'>{Data.startDate} - {Data.endDate}</span> {Data.location}
                 </h4>

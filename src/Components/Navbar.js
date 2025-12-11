@@ -8,7 +8,7 @@ const Navbar = () => {
     };
 
     return (
-        <nav className="bg-black shadow-2xl sticky top-0 z-10 rounded-md" data-aos="fade-down" data-aos-duration="1000">
+        <nav className="bg-black shadow-2xl sticky top-0 z-50 w-full" data-aos="fade-down" data-aos-duration="1000">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center justify-between h-16">
                     <div className="flex items-center">
