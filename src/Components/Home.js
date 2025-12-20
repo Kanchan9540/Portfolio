@@ -73,7 +73,7 @@ return (
       >
         <h1
           className='m-6 p-2 text-xl md:text-2xl font-bold text-white'
-        > <span ref={typedRef}></span>Welcome</h1>
+        > <span ref={typedRef}></span>Welcome to my portfolio</h1>
 
         <a
           href={Pdf}
